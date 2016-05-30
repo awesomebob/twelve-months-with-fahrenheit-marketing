@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Neogenis",
+    "tech": ["WordPress", "WooCommerce"],
+    "desc": "Built the theme, imported products from 3dCart",
+    "link": "https://www.neogenis.com"
+  },
+  {
+    "name": "MyALK",
+    "tech": ["Meteor"],
+    "desc": "Wrote an import script for legacy account numbers",
+    "link": "https://myalkus.com"
+  },
+  {
+    "name": "Right Decisions Right Now",
+    "tech": ["Symfony","WordPress"],
+    "desc": "I built the site using Symfony to connect with a WordPress backend via the REST API.",
+    "link": "http://www.rightdecisionsrightnow.com"
+  },
+  {
+    "name": "Gatorade",
+    "tech": ["Laravel","Dropzone.js"],
+    "desc": "I built a micro-site in Laravel, with support for drag-and-drop file uploads. The client has held off on launching the site."
+  },
+  {
+    "name": "Texas Alliance for Life",
+    "tech": ["ModPay Plugin","Gravity Forms"],
+    "desc": "I updated their custom payment integration to work with multiple donation forms.",
+    "link": "https://www.texasallianceforlife.org"
+  },
+  {
+    "name": "ACTT",
+    "tech": ["WordPress","Gravity Forms"],
+    "desc": "Developed new veterinarian dashboard with support for file uploads.",
+    "link": "https://www.acttallergy.com"
+  },
+  {
+    "name": "Team Factory",
+    "tech": ["WordPress","WooCommerce"],
+    "desc": "I built a custom modal dialog to allow for adding player names and numbers to soccer jerseys.",
+    "link": "https://www.theteamfactory.com"
+  },
+  {
+    "name": "Goulet Pens",
+    "tech": ["Mozu"],
+    "desc": "I added small theme improvements and implemented a stock status feature.",
+    "link": "http://www.gouletpens.com/"
+  },
+  {
+    "name": "Clarity Science",
+    "tech": ["WordPress"],
+    "desc": "I helped build the Conferences and Publications page.",
+    "link": "https://clarityscience.com/"
+  },
+  {
+    "name": "USMR",
+    "tech": ["WordPress","WooCommerce"],
+    "desc": "I helped with the checkout process, which is heavily customized.",
+    "link": "https://www.usmoneyreserve.com/"
+  },
+  {
+    "name": "Thinkery",
+    "tech": ["WordPress"],
+    "desc": "I built the new Membership page",
+    "link": "https://thinkeryaustin.org/"
+  }
+]
