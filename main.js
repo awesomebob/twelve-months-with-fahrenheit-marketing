@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { RadiumStarterRoot, RadiumStarter, Button } from 'radium-starter';
-require("./style.scss");
 
 @RadiumStarter
 class App extends React.Component {
